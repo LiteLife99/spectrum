@@ -1,5 +1,5 @@
 # spectrum
-Python audio service which can be used for speaker diarization and transcription using whisper model.
+Spectrum is a Python microservice for speaker diarization and transcription using OpenAI's Whisper model.
 
 Steps to run:
 
